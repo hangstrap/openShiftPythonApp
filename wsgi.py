@@ -231,7 +231,7 @@ pre {
 <body>
 <section class='container'>
           <hgroup>
-            <h1>Welcome to hangstrap's Python application on OpenShift</h1>
+            <h1>Welcome to hangstrap's latest Python application on OpenShift</h1>
           </hgroup>
 
         <div class="row">
